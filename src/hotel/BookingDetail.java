@@ -1,6 +1,8 @@
 package hotel;
 
 import java.time.LocalDate;
+import hotel.BookingDetail;
+import hotel.BookingManager;
 
 public class BookingDetail {
 
